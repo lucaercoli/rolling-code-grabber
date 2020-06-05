@@ -9,7 +9,7 @@ The GNU Radio Companion (GRC) flowgraph released it's a proof-of-concept that al
 
 ## Hardware used:
 
-- Generic SDR USB Tuner Receiver (RTL2832U+R820T2)
+- Generic SDR USB Tuner Receiver (R820T2+RTL2832U)
 - HackRF One
 
 ## Test target:
