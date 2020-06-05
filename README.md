@@ -7,9 +7,9 @@ Rolling Code Grabber is an open-source solution to implement a software-defined 
 
 The GNU Radio Companion (GRC) flowgraph released it's a proof-of-concept that allow to the attacker the ability to jam and store locally the unidirectional radio frequency transmitted from RF key fob to the intended receiver, being able to subsequently send an arbitrary part of the sampled data.
 
-## Hardware used ( available at [Nooelec](https://www.nooelec.com/store/) ):
+## Hardware used:
 
-- Nooelec NESDR SMArt v4
+- Generic SDR USB Tuner Receiver (RTL2832U+R820T2)
 - HackRF One
 
 ## Test target:
